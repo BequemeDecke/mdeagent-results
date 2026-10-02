@@ -1,0 +1,11 @@
+Aufgabe;Beschreibung;Erforderlichkeitsgrad;Kategorie
+Erstellung eines Maven-Pakets;Erstellung eines Maven-Projekts, um Quellcode sauber zu trennen;(0) Build-Management-Tools;Paket Management
+Lokalisierung der benötigten Metamodelle;Metamodelle als Abhängigkeit in Projekt hinzufügen;(0) Pfadangabe des Nutzers und Kopiertools;Lokalisierung
+Lokalisierung der benötigten Dateien;Benötigte Dateien zur Patch-Generierung identifizieren;(1) Standardisierung von Pfaden oder Suchoperationen durch Agenten;Lokalisierung
+Extraktion potentieller Schwierigkeiten;Potenzielle Konsistenzprobleme identifizieren;(2) Qualitative Interpretation von natürlicher Sprache;Analyse
+Konzeptionierung eines Implementierungsplans;Transformation der Anforderungen in ein Implementierungskonzept;(2) Qualitative Interpretation von natürlicher Sprache;Analyse
+Implementierung der Transformationsklasse;Implementierung einer Klasse mit spezifizierter Schnittstelle;(2) Code aus Anforderungen in natürlicher Sprache;Implementierung
+Integration in BenchmarX;Implementierung der BxToolForEMF-Klasse in Form eines Adapters;(2) Code aus Anforderungen in natürlicher Sprache;Implementierung
+Ausführung des BenchmarX-Tests;Aufruf des Benchmarks für bx;(0) Konsolenaufruf durch BenchmarxUpdates;Evaluierung
+Interpretation der Ergebnisse;Auswertung der Testergebnisse auf angeforderte Standards;(1) Auswertung quantitative Merkmale durch Kontrollfunktionen aber Interpretation qualitativer Ergebnisse durch Sprachmodell;Evaluierung
+Bundling des Projekts;Bundling des erstellten Projekts in eine JAR-Datei;(0) Build-Management-Tools;Paket Management

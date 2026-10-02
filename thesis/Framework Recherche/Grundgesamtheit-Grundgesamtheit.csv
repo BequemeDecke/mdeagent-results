@@ -1,0 +1,28 @@
+Framework;Anwendungsfall;Open-Source;Website;Quellen;Sprache;MCP;A2A/ACP;Typ;Last Commit;GitHub Stars (in k);Notes
+LangChain;LLM-powered applications;O;https://www.langchain.com/langchain;AIAgentFrameworks2025, AIAgentFrameworks18:22:00, ListsOpensourceArtificial2026, bandiRiseAgenticAI2025, joshiAdvancingInnovationFinancial2025, BestAIAgent;Python, TS;Via Adapter;Via Adapter;;Tag;142;
+MetaGPT;Multi-Agent Systeme;O;https://github.com/FoundationAgents/MetaGPT;bandiRiseAgenticAI2025;Python;Nein;Nein;;Tag;69,4;Ist ein Orchestration Framework
+AutoGen;Multi-Agent Systeme;O;https://microsoft.github.io/autogen/stable/index.html;AIAgentFrameworks2025, AIAgentFrameworks18:22:00, bandiRiseAgenticAI2025, joshiAdvancingInnovationFinancial2025;Python;Nativ;Nativ;;Monat;59,7;Wird nicht weiterentwickelt. Neue Nutzer sollen das Microsoft Agent Framework nutzen.
+CrewAI;Workflow Automation, Multi-Agent Systeme;O;https://crewai.com/;satyadharjoshiReviewAutonomousSystems2025, AIAgentFrameworks2025, AIAgentFrameworks18:22:00, ListsOpensourceArtificial2026, joshiAdvancingInnovationFinancial2025, BestAIAgent, teamAIAgentFrameworks2026;Python;Nativ;Nativ;;Tag;55,6;
+LangGraph;Multi-Agent Systeme;O;https://www.langchain.com/langgraph;satyadharjoshiReviewAutonomousSystems2025, AIAgentFrameworks2025, AIAgentFrameworks18:22:00, BestAIAgent, teamAIAgentFrameworks2026;Python, TS;Via Adapter;Nein;;Tag;37,4;
+Hugging Face Smolagents;AI Research, Code generation;O;https://huggingface.co/docs/smolagents/index;satyadharjoshiReviewAutonomousSystems2025, joshiAdvancingInnovationFinancial2025, teamAIAgentFrameworks2026;Python;Unterstützt;Nein;;Tag;28,4;
+Semantic Kernel;Generative AI Application;O;https://learn.microsoft.com/en-us/semantic-kernel/overview/;AIAgentFrameworks2025, AIAgentFrameworks18:22:00;C-Sharp, Python, Java;Via Adapter;Nein;SDK;Woche;28,3;Ist jetzt Microsoft Agent Framework
+OpenAI Agents SDK;Multi-Agent Workflow SDK;O;https://developers.openai.com/;BestAIAgent, teamAIAgentFrameworks2026;Python, TS;Via Adapter;Nein;SDK;Tag;27,9;
+Deep Agents;Agent Harness;O;https://www.langchain.com/deep-agents;BestAIAgent;Python, TS;Via Adapter;Via Adapter;;Tag;26,3;
+BabyAGI;Accessible autonomous task management;O;https://babyagi.org/;bandiRiseAgenticAI2025;Python;Nein;Nein;Experimental Framework;Monat;22,3;
+Google ADK (Agent Development Kit);Agent development framework;O;https://adk.dev/;BestAIAgent, teamAIAgentFrameworks2026;Python, TS, Java, Go;Via Adapter;Nativ;Toolkit;Tag;20,6;
+PydanticAI;Data validation;O;https://github.com/pydantic/pydantic-ai;joshiAdvancingInnovationFinancial2025, teamAIAgentFrameworks2026;Python;Ja;Ja;Library;Tag;18,5;
+SuperAGI;Autonomous Agents;O;https://martinfowler.com/;bandiRiseAgenticAI2025;;;;Toolkit, Plattform;Jahr;17,6;
+CAMEL;Framework for testing scalability of agents;O;https://www.camel-ai.org/;bandiRiseAgenticAI2025;Python;Nativ;Nein;Research Framework;Tag;17,4;
+LangChain4j;Incoperation of LLMs into Java applications;O;https://github.com/langchain4j/langchain4j/;AIAgentFrameworks2025;Java;Nein;Nein;;Tag;12,6;
+Microsoft Agent Framework;Multi-Agent Orchestration Framework;O;https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-csharp;BestAIAgent, teamAIAgentFrameworks2026;Python, .NET, Go;Nativ;Nativ;;Tag;12,1;
+Agentforce;CRM Integration;E;https://www.salesforce.com/agentforce/;joshiAdvancingInnovationFinancial2025;;;;Plattform;;;
+AutoGPT;Agent Management;O;https://agpt.co/;ListsOpensourceArtificial2026, bandiRiseAgenticAI2025;;Nein;Nein;Plattform;;;
+Claude Agent SDK;Coding Agents;T;https://code.claude.com/docs/de/agent-sdk/overview;teamAIAgentFrameworks2026;Python, TS;Nativ;Nein;;;;
+IBM Watson;AI Agent Deployment;E;https://www.ibm.com/watson;satyadharjoshiReviewAutonomousSystems2025, joshiAdvancingInnovationFinancial2025;;;;;;;
+Langflow;Drag and Drop Framework for building AI workflows;O;https://www.langflow.org/;AIAgentFrameworks18:22:00;;Nativ;Nein;Plattform;;;
+Llama-Agents;Complex AI-Applications;O;https://www.llamaindex.ai/blog/introducing-llama-agents-a-powerful-framework-for-building-production-multi-agent-ai-systems;joshiAdvancingInnovationFinancial2025;Python;Nativ;Nein;CLI;;;Ist ein CLI Tool, um Agenten einfach zu starten.
+LlamaIndex;Data Orchestration with LLM Agents;O;https://www.llamaindex.ai/;AIAgentFrameworks2025, BestAIAgent;Python;Nativ;Nein;Plattform;;;Ist das Framework, um Agenten zu orchestrieren.
+Mastra;AI Agent application framework;T;;BestAIAgent;;;;;;;
+NVIDIA NIM;Generative AI Deployment;E;;satyadharjoshiReviewAutonomousSystems2025;;;;;;;
+OpenAgents;Collaboration OS for AI Agents;O;https://openagents.org/;bandiRiseAgenticAI2025;Python;;;Plattform;;;
+OpenClaw;Autonomous task-execution;O;;ListsOpensourceArtificial2026;;;;Plattform;;;

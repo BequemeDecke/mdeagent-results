@@ -1,0 +1,14 @@
+Pattern;Modularität;Problematik;Score
+Agent Evaluator;2;2;2
+Prompt/Response Optimizer;2;2;2
+Multimodal Guardrails;2;1;1,5
+Passive Goal Creator;2;1;1,5
+Proactive Goal Creator;2;1;1,5
+Retrieval Augmented Generation;1;2;1,5
+Self-Reflection;1;2;1,5
+Agent Adapter;1;1;1
+Human Reflection;0;2;1
+One-Shot Model Querying;2;0;1
+Incremental Model Querying;1;0;0,5
+Multi-Path Plan Generator;0;0;0
+Single-Path Plan Generator;0;0;0

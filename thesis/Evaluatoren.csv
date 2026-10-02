@@ -1,0 +1,8 @@
+Evaluator;Beschreibung;Parameter;Node
+ToolInstalled;Überprüft, ob Tools und Commands auf dem Computer installiert sind, die im Agenten benötigt werden.;tools: list[str];PreparationNode
+WorkspaceStructure;Prüft, ob der Workspace bereit ist, um die Transformationsartefakte zu generieren.;workspace_path: Path, artifact_id: str, package_path: str;PreparationNode
+TransformationPlanComplete;Überprüft, ob alle Informationsfelder der TRANSFORMATINO.md ausgefüllt wurden.;transformation_plan: SerializedTransformationPlan;ComprehensionNode
+FileExistence;Überprüft, ob eine Datei von dem Agenten tatsächlich innerhalb der Umgebung erstellt wurde.;files: list[Path];ImplementationNode
+TransformationCode;Überprüft, ob das vorgegebene \texttt{AgentTransformationForEMF}-Interface in der generierten Transformationsklasse implementiert wurde.;transformation_class_path: str;ImplementationNode
+JavaCompilation;Verwendet den Maven, um die Syntax der erstellten Dateien zu überprüfen. Ergebnisse müssen an ein \gls{llm} zur Behebung weitergereicht werden.;project_path: Path;ImplementationNode
+Benchmarx;Führt BenchmarX mit der implementierten Transformation aus und versucht die Ergebnisse zu parsen.;benchmarx_path: Path;ComprehensionNode

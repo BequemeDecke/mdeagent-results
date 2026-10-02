@@ -1,0 +1,6 @@
+model;count;successes;successrate;latencymedian;latencymeansigma;latencyminmax;latencyiqr;tokensmedian
+GPT-OSS 120B;10;7;70.0%;209.8s;204.6s +/- 76.0s;95.5s -- 302.3s;129.8s;543,157 (Mean: 463,750)
+Gemma 4 E4B;10;6;60.0%;242.4s;242.7s +/- 75.9s;128.4s -- 351.4s;98.7s;34,862 (Mean: 33,980)
+Magistral Small;10;1;10.0%;381.0s;358.6s +/- 133.6s;147.5s -- 488.4s;189.7s;104,068 (Mean: 106,708)
+Qwen 3.8 27B;10;0;0.0%;185.1s;155.9s +/- 42.1s;65.2s -- 185.6s;58.8s;2,146 (Mean: 2,146)
+gemma-4 31B (RedHat);10;1;10.0%;196.3s;193.1s +/- 75.5s;77.7s -- 339.9s;54.9s;38,656 (Mean: 49,054)

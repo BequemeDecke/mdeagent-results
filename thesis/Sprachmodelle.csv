@@ -1,0 +1,21 @@
+id;object;created;owned_by;mode;Error;Status
+deepseek-ai/DeepSeek-V4-Flash-0731;model;1677610602;openai;;Execution over 20min;Timeout
+deepseek-ai/DeepSeek-V4.1-Flash;model;1677610602;openai;;Execution over 20min;Timeout
+GaleneAI/Magistral-Small-2509-FP8-Dynamic;model;1677610602;openai;;;Succeeded
+google/gemma-4-E4B-it;model;1677610602;openai;;;Succeeded
+gpt-oss-120b;model;1677610602;openai;;;Succeeded
+ibm-granite/granite-4.1-3b;model;1677610602;openai;;Framework-Fehler aufgrund von Tool-Invoken;Problem mit Tools. Hat nur Plan nur gelesen, nie geupdated.
+lightonai/LightOnOCR-2-1B;model;1677610602;openai;ocr;400;
+Microsoft/Phi-4-mini-instruct;model;1677610602;openai;;Can’t invoke tools;
+mistralai/Mistral-Medium-3.5-128B;model;1677610602;openai;;;Timeout
+moonshotai/Kimi-K2.6;model;1677610602;openai;;500;
+moonshotai/Kimi-K3;model;1677610602;openai;;500;Timeout
+Qwen/Qwen3-Embedding-4B;model;1677610602;openai;embedding;404;
+Qwen/Qwen3.6-35B-A3B-FP8;model;1677610602;openai;;;Succeeded
+Qwen/Qwen3.8-27B-FP8;model;1677610602;openai;;;Timeout
+RedHatAI/gemma-4-31B-it-FP8-block;model;1677610602;openai;;;Succeeded
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8;model;1677610602;openai;;Can’t invoke tools;
+XiaomiMiMo/MiMo-V2.6-Flash-RL;model;1677610602;openai;;400;
+zai-org/GLM-5.2-FP8;model;1677610602;openai;;500;
+zai-org/GLM-5.3;model;1677610602;openai;;500;
+zai-org/GLM-5.3-Flash;model;1677610602;openai;;500;

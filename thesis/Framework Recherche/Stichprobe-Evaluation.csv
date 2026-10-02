@@ -1,0 +1,11 @@
+Framework;Architektur;Funktionalität;Community
+LangGraph;(5) Explizite Low-Level Graph-Primitive mit Nodes/Edges;"(4) Lebendiges Ökosystem durch LangChain-Integration, aber nicht eigenständig;";(5) Größtes und aktivstes Ökosystem, >37K GitHub Stars, täglich aktive Entwicklung
+Google ADK;(5) event-getrieben mit explizitem Callback-System;(4) LangChain/CrewAI-Tool-Integration möglich, MCP;(3) ~20K Stars, Google-Backing
+LangChain;(3) Höhere Abstraktionsstufe, AgentExecutor weniger granular als LangGraph;(5) 1000+ Integrationen über langchain-community;(5) 140K+ Stars, aktive Community
+PydanticAI;(4) Type-safe Agent-Design mit Pydantic Validation, flexible Abstraktionen;(3) Fokussiert auf Built-in Features, Ökosystem klein;(4) ~18,5K Stars, Pydantic-Backing
+MetaGPT;(4) Message-Pool + Publish-Subscribe Mechanismus;(3) Spezialisiert auf Software-Development-Workflows;(3) ~69,4K Stars, akademisch stark (arXiv)
+OpenAI Agents SDK;(4) Stateless Agents mit Thread-basiertem State, nicht-graph-basiert;(3) Provider-agnostisch;(3) ~27K Stars, OpenAI-Backing
+Microsoft Agent Framework;(4) Graph-basierte Workflows mit Executors/Edges. Middleware-System für Interception;(3) MCP-Server Integration,;(3) ~12K Stars, Microsoft-Backing 
+CrewAI;(2) Sequentielle/Hierarchische Prozesse vordefiniert, baut auf LangChain auf;(4) Gutes Ökosystem durch LangChain-Nutzung;(4) ~55K Stars, Große Discord-Community
+Deep Agents;(3) Konfigurierbare Agent-Harness, baut auf LangChain/LangGraph auf, Middleware-basiert;(4) LangChain-Ökosystem, aber wenig eigene Module;(2) ~26K Stars, LangChain-Team-Projekt
+Hugging Face Smolagents;(3) CodeAgents, aber weniger Kontrolle über komplexe Workflows;(3) Tools einfach deklarierbar, HuggingFace-Modell-Zugang;(2) ~28,4K Stars, HuggingFace-Ecosystem
