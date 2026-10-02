@@ -1,0 +1,6 @@
+﻿id,object,created,owned_by,mode
+GaleneAI/Magistral-Small-2509-FP8-Dynamic,model,1677610602,openai,
+gpt-oss-120b,model,1677610602,openai,
+RedHatAI/gemma-4-31B-it-FP8-block,model,1677610602,openai,
+google/gemma-4-E4B-it,model,1677610602,openai,
+Qwen/Qwen3.8-27B-FP8,model,1677610602,openai,

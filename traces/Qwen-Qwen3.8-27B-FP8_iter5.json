@@ -1,0 +1,19 @@
+{
+  "model_id": "Qwen/Qwen3.8-27B-FP8",
+  "iteration": 5,
+  "workspace_path": "/var/folders/x7/r2jcv5k52zldy242qw2z17y80000gn/T/mdeagent-benchmark-dwnvhx50",
+  "timestamp": "2026-09-29T11:00:46.911960+00:00",
+  "success": false,
+  "error": {
+    "type": "OpenAIConnectionError",
+    "message": "Connection error.",
+    "traceback": "<traceback object at 0x10f7b74c0>"
+  },
+  "trace_id": null,
+  "trace_url": null,
+  "transformation_class_path": null,
+  "bxtool_path": null,
+  "written_files": [],
+  "evaluation_runs": [],
+  "iterations_completed": 0
+}

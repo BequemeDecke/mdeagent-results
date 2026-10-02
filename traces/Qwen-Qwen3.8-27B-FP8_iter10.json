@@ -1,0 +1,19 @@
+{
+  "model_id": "Qwen/Qwen3.8-27B-FP8",
+  "iteration": 10,
+  "workspace_path": "/var/folders/x7/r2jcv5k52zldy242qw2z17y80000gn/T/mdeagent-benchmark-rjgv_jg7",
+  "timestamp": "2026-09-29T11:01:51.547144+00:00",
+  "success": false,
+  "error": {
+    "type": "OpenAITimeoutError",
+    "message": "Request timed out.",
+    "traceback": "<traceback object at 0x10faa2740>"
+  },
+  "trace_id": null,
+  "trace_url": null,
+  "transformation_class_path": null,
+  "bxtool_path": null,
+  "written_files": [],
+  "evaluation_runs": [],
+  "iterations_completed": 0
+}

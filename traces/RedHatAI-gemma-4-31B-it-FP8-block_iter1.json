@@ -1,0 +1,19 @@
+{
+  "model_id": "RedHatAI/gemma-4-31B-it-FP8-block",
+  "iteration": 1,
+  "workspace_path": "/var/folders/x7/r2jcv5k52zldy242qw2z17y80000gn/T/mdeagent-benchmark-6sjykokm",
+  "timestamp": "2026-09-29T10:52:24.654143+00:00",
+  "success": false,
+  "error": {
+    "type": "OpenAIConnectionError",
+    "message": "Connection error.",
+    "traceback": "<traceback object at 0x11218fcc0>"
+  },
+  "trace_id": null,
+  "trace_url": null,
+  "transformation_class_path": null,
+  "bxtool_path": null,
+  "written_files": [],
+  "evaluation_runs": [],
+  "iterations_completed": 0
+}
